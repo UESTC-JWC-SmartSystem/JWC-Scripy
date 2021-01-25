@@ -1,0 +1,139 @@
+1700	Adverse Drug Reactions Prediction Using Multi-label Linear Discriminant Analysis and Multi-label Learning
+1701	Semi-Supervised learning with Collaborative Bagged Multi-label K-Nearest-Neighbors
+1702	Collaborative Anomaly Detection for Internet of Things based on Federated Learning
+1703	Multi-Label Multi-Task Learning with Dynamic Task Weight Balancing
+1704	Making Agents' Abilities Explicit
+1705	Multi-label Feature Selection Method via Maximizing Correlation-based Criterion with Mutation Binary Bat Algorithm
+1706	Prototypical Networks for Multi-Label Learning
+1707	High-Level Classification for Multi-Label Learning
+1708	Smart Non-intrusive Device Recognition Based on Intelligent Multi-label Classification Methods
+1709	A Deep Learning Approach for Classifying Patient Attendance Disposal from Emergency Departments
+1710	A Recurrent Attention Network for Judgment Prediction
+1711	Graph-based dynamic ensemble pruning for facial expression recognition
+1712	A Transfer Learning based Approach for Aspect Based Sentiment Analysis
+1713	Collaborative Filtering and Multi-Label Classification with Matrix Factorization
+1714	Decision function with probability feature weighting based on Bayesian network for multi-label classification
+1715	A Multi-Label Feature Selection Based on Mutual Information and Ant Colony Optimization
+1716	ML-MDLText: A Multilabel Text Categorization Technique with Incremental Learning
+1717	Hyperspectral Image Classification Based on Adaptive Sparse Deep Network
+1718	An Automated Learning Content Classification Model for Open Education Repositories: Case of MERLOT II
+1719	Surface Defect Modelling Using Co-occurrence Matrix and Fast Fourier Transformation
+1720	Cognitive Compliance: Analyze, Monitor and Enforce Compliance in the Cloud
+1721	利用主动查询的增量多标记学习
+1722	General dermatology
+1723	Label Embedding Enhanced Multi-label Sequence Generation Model
+1724	CascadeML: An Automatic Neural Network Architecture Evolution and Training Algorithm for Multi-label Classification (Best Technical Paper)
+1725	Multi-label Classification Models for Detection of Phonetic Features in building Acoustic Models
+1726	[PDF] Predicting Genre from Movie Posters
+1727	Beyond Statistical Relations: Integrating Knowledge Relations into Style Correlations for Multi-Label Music Style Classification
+1728	Boolean Matrix Decomposition for Label Space Dimension Reduction: Method, Framework and Applications
+1729	Action Discretization for Robot Arm Teleoperation in Open-Die Forging
+1730	The Linear Geometry Structure of Label Matrix for Multi-label Learning
+1731	Weighted Fuzzy Decision Tree for Multi-Label Classification
+1732	MixLab: An Informative Semi-supervised Method for Multi-label Classification
+1733	Multilabel Image Classification Based Fresh Concrete Mix Proportion Monitoring Using Improved Convolutional Neural Network
+1734	面向技术论坛的问题解答状态预测
+1735	Effective Music Emotion Recognition by Segment-based Progressive Learning
+1736	Deep Dependency Network for Multi-label Text Classification
+1737	Probabilistic Margin-Aware Multi-Label Feature Selection by Preserving Spatial Consistency
+1738	Multi-label Classification Method Based on the Labeling-Importance Degree
+1739	A Self-consistent-field Iteration for Orthogonal Canonical Correlation Analysis
+1740	M3LA: A Novel Approach Based on Encoder-Decoder with Attention Framework for Multi-modal Multi-label Learning
+1741	MaxMin clustering for historical analogy
+1742	Multi-label Feature Selection for Long-term Electrocardiogram Signals
+1743	[PDF] 基于深度学习的多标签生成研究进展
+1744	EmotionGIF-Yankee: A Sentiment Classifier with Robust Model Based Ensemble Methods
+1745	VDRF: Sensing the defect information to risk level of vehicle recall based on bert communication model
+1746	MLPSVM: A new parallel support vector machine to multi-label learning
+1747	Multi-label Topic Classification of Patient Generated Content in a Breast-cancer Community Forum
+1748	Towards a High-Level Multi-label Classification from Complex Networks
+1749	Co-learning binary classifiers for LP-based multi-label classification
+1750	Positive semidefinite support vector regression metric learning
+1751	A Benchmark Study on Machine Learning Methods using Several Feature Extraction Techniques for News Genre Detection from Bangla News Articles & Titles
+1752	An Incremental Clustering Approach to Personalized Tag Recommendations
+1753	An ensemble framework with -norm regularized hypergraph laplacian multi-label learning for clinical data prediction
+1754	Gated Neural Network with Regularized Loss for Multi-label Text Classification
+1755	Comparative Experimental Study of Multi Label Classification using Single Label Ground Truth with Application to Field Majoring Problem
+1756	Co-training Based on Semi-Supervised Ensemble Classification Approach for Multi-label Data Stream
+1757	A Novel Method with Stacking Learning of Data-Driven Soft Sensors for Mud Concentration in a Cutter Suction Dredger
+1758	An Effective Multi-label Classification Algorithm Based on Hypercube
+1759	An Efficient Framework by Topic Model for Multi-label Text Classification
+1760	[HTML] 基于标记密度分类间隔面的组类属属性学习
+1761	A SDR-based verification platform for 802.11 PHY layer security authentication
+1762	Practical Vulnerability Analysis of Mouse Data According to Offensive Security Based on Machine Learning
+1763	A Label-Specific Attention-Based Network with Regularized Loss for Multi-label Classification
+1764	Hybrid Method in Identifying the Fraud Detection in the Credit Card
+1765	An Effective Multi-Label Feature Selection Model Towards Eliminating Noisy Features
+1766	L1-norm based discriminant manifold learning for multi-label image classification
+1767	Design of Active Learning Framework for Collaborative Anomaly Detection
+1768	Multi-label Classification for Automatic Tag Prediction in the Context of Programming Challenges
+1769	[PDF] 标记倾向性的粗糙互信息k 特征核选择
+1770	Minería de datos sobre objetos de aprendizaje
+1771	Mental Health App Reviews Analyzer (MHARA) Using Logistic Regression and Tri-Gram
+1772	ML-CK-ELM: An efficient multi-layer extreme learning machine using combined kernels for multi-label classification
+1773	[HTML] 一种基于嵌入式的弱标记分类算法
+1774	TCM Translator: A Sequence Generation Approach for Prescribing Herbal Medicines
+1775	[PDF] CCDM2020+ 248: 图趋势过滤诱导的噪声容错多标记学习模型
+1776	Geometric Mean Metric Learning for Label Distribution Learning
+1777	Win-win Cooperation: A Novel Dual-Modal Dual-Label Algorithm for Membrane Proteins Function Pre-screen
+1778	A Real-Time Fault Location Mechanism Combining CGP Code and Deep Learning
+1779	SMURF: Systematic Methodology for Unveiling Relevant Factors in Retrospective Data on Chronic Disease Treatments
+1780	An improved Chinese text multi-label classification method based on CNN
+1781	A Machine Learning Model for Forecasting Wind Disasters for Farmers
+1782	粒向量与K 近邻粒分类器
+1783	Law Article Prediction Based on Deep Learning
+1784	[PDF] 基于字典学习的民族文化图案语义标注
+1785	MLCR: A Fast Multi-label Feature Selection Method Based on K-means and L2-norm
+1786	A comparison of sentiment analysis techniques in a parallel and distributed NoSQL environment
+1787	On the generation of multi-label prototypes
+1788	Multi-Label Classification Of Remote Sensing Imagery With Deep Neural Networks
+1789	[PDF] PLDL: a novel method for label distribution learning.
+1790	An Evolutionary Memetic Weighted Associative Classification Algorithm for Heart Disease Prediction
+1791	A New Supervised Learning Approach: Statistical Adaptive Fourier Decomposition (SAFD)
+1792	Intelligent Neural Network Schemes for Multi-Class Classification
+1793	A Multi-Factor Approach for Selection of Developers to Fix Bugs in a Program
+1794	Dealing with classification irregularities in real-world scenarios
+1795	[HTML] Combinando Métodos de Aprendizado Supervisionado para a Melhoria da Previsão do Redshift de Galáxias
+1796	Predicting drug-target interactions using multi-label learning with community detection method (DTI-MLCD)
+1797	Improving Multi-Label Classification for Learning Objects Categorization by Taking into Consideration Usage Information.
+1798	Domain of Competency of Classifiers on Overlapping Complexity of Datasets Using Multi-label Classification with Meta-Learning
+1799	Dimensionality Reduction in Multilabel Classification with Neural Networks
+1800	Performance Analysis of Machine Learning Techniques for Microscopic Bacteria Image Classification
+1801	Non-Communicable Diseases Classification using Multi-Label Learning Techniques
+1802	IFFLC: An Integrated Framework of Feature Learning and Classification for Multiple Diagnosis Codes Assignment
+1803	KFHE-HOMER: A multi-label ensemble classification algorithm exploiting sensor fusion properties of the Kalman filter
+1804	Discovering latent class labels for multi-label learning
+1805	Robust Multi-Label Learning with Corrupted Features and Incomplete Labels
+1806	MLPSO: A Filter Multi-label Feature Selection Based on Particle Swarm Optimization
+1807	A TextCNN Based Approach for Multi-label Text Classification of Power Fault Data
+1808	Prediction of Acetylation and Succinylation in Proteins Based on Multilabel Learning RankSVM
+1809	Analysis of the Efficiency-Energy with Regression and Classification in Household Using K-NN
+1810	[HTML] Fault severity assessment of rolling bearings method based on improved VMD and LSTM
+1811	VDIF-M: Multi-label Classification of Vehicle Defect Information Collection Based on Seq2seq Model
+1812	Component-Wise Boosting of Targets for Multi-Output Prediction
+1813	Machine Learning Methods for Rapid Inspection of Automated Fiber Placement Manufactured Composite Structures
+1814	A Comparative Study on Three Multi-Label Classification Tools
+1815	Pattern Classification Based on RBF Networks with Self-Constructing Clustering and Hybrid Learning
+1816	A Unified Multi-label Relationship Learning
+1817	A new approach for case acquisition in CBR based on multilabel text categorization: a case study in child's traumatic brain injuries
+1818	Multi-label Classification of Short Text Based on Similarity Graph and Restart Random Walk Model
+1819	Learning Vector-valued Functions with Local Rademacher Complexity and Unlabeled Data
+1820	Residual Neural Network Based Classification of Macular Edema in OCT
+1821	MULTI-LABEL METRIC LEARNING WITH BIDIRECTIONAL REPRESENTATION DEEP NEURAL NETWORKS
+1822	Discriminative Multi-label Model Reuse for Multi-label Learning
+1823	KMSVM: A Efficient Min-Max Modular Support Vector Machine Based on Clustering
+1824	Multi Modal Genre Classification of Movies
+1825	MLND: A Weight-Adapting Method for Multi-label Classification Based on Neighbor Label Distribution
+1826	Applying Machine Learning Techniques for Performing Comparative Opinion Mining
+1827	ALDL: a novel method for label distribution learning
+1828	Attention Network for Product Characteristics Prediction Based on Reviews
+1829	Using Shared Vector Representations of Words and Chords in Music for Genre Classification
+1830	[HTML] 基于模糊不一致对的多标记属性约简
+1831	[PDF] KFHE-HOMER: Kalman Filter-based Heuristic Ensemble of HOMER for Multi-Label Classification⋆
+1832	LKLR: A local tangent space-alignment kernel least-squares regression algorithm
+1833	[PDF] 基于K 近邻的众包数据分类算法
+1834	Objective Evaluation of Hand ROM and Motion Quality based on Motion Capture and Brunnstrom Scale
+1835	[HTML] Multi-domain semantic similarity in biomedical research
+1836	Robust Semi-supervised Multi-label Learning by Triple Low-Rank Regularization
+1837	Stylometric Authorship Attribution Techniques and Analysis for Collaborative Platforms
+1838	Reduction Methods for Multi-Label Classification
