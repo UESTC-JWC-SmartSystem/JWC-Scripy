@@ -1,11 +1,11 @@
-import webbrowser
-
 '''
 	Get Author and Journal information from BibTeX.
 	Author: Yuyang Qian
 	E-mail: qianyy@lamda.nju.edu.cn
-	2020/01/25
+	2020/01/24
 '''
+
+import webbrowser
 
 
 def authorparser(bib):

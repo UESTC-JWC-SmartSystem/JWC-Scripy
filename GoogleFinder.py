@@ -1,3 +1,10 @@
+'''
+	Get Author and Journal information from a string (Paper's Title), and copy to clipboard.
+	Author: Yuyang Qian
+	E-mail: qianyy@lamda.nju.edu.cn
+	2020/01/25
+'''
+
 import time
 import webbrowser
 import os
